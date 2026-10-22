@@ -94,12 +94,6 @@ I enjoy solving technical problems, improving existing systems, and building rel
 
 ---
 
-## 🌱 Currently Growing
-
-I'm continuously strengthening my software development skills, improving my problem-solving approach, and expanding my knowledge of application development, database management, and software engineering.
-
----
-
 ## 🌎 Languages
 
 - Spanish — Native.
