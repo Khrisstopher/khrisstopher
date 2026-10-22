@@ -78,21 +78,8 @@ I enjoy solving technical problems, improving existing systems, and building rel
 ### Web Developer — Waplicaciones
 *April 2025 – December 2025*
 
-- Migrated forms from Symfony to Drupal and worked on Dolibarr module migrations.
-- Developed custom ERP functionality and automated accounting workflows.
-- Built internal REST APIs with standardized response structures.
-- Implemented dynamic templates using Twig.
-- Generated customized PDF reports using TCPDF.
-- Automated database operations using PHP and SQL, incorporating validation and protections against SQL injection.
-- Optimized SQL queries and data processing for reports and large datasets.
-
 ### Web Developer — Arcos BPO
 *June 2024 – December 2024*
-
-- Developed web applications using PHP, MySQL and Bootstrap.
-- Maintained and improved existing web applications, including CRM Claro.
-- Automated repetitive BackOffice tasks with Python and database scripts.
-- Supported the migration and deployment of a corporate website.
 
 ---
 
@@ -119,17 +106,3 @@ I'm continuously strengthening my software development skills, improving my prob
 - English — A2, currently studying.
 
 ---
-
-## 📫 Let's Connect
-
-I'm interested in professional opportunities where I can contribute to web development, backend engineering, business application customization, and process automation.
-
-- 💼 LinkedIn: [linkedin.com/in/khrisstopher](https://www.linkedin.com/in/khrisstopher/)
-- 📧 Email: [moralesk2026@outlook.com](mailto:moralesk2026@outlook.com)
-- 🐙 GitHub: [@khrisstopher](https://github.com/khrisstopher)
-
----
-
-<p align="center">
-  <i>Building practical solutions through clean code, continuous learning, and problem-solving.</i>
-</p>
